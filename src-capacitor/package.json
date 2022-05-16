@@ -1,0 +1,12 @@
+{
+  "name": "logadia",
+  "version": "0.0.1",
+  "description": "Log your daily life",
+  "author": "contact@niowniow.com",
+  "private": true,
+  "dependencies": {
+    "@capacitor/android": "2.5.0",
+    "@capacitor/cli": "^2.0.0",
+    "@capacitor/core": "^2.0.0"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "appId": "org.logadia.logadia",
+  "appName": "logadia",
+  "bundledWebRuntime": false,
+  "npmClient": "yarn",
+  "webDir": "www"
+}

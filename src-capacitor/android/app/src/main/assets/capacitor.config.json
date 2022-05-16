@@ -1,0 +1,10 @@
+{
+  "appId": "org.logadia.logadia",
+  "appName": "logadia",
+  "bundledWebRuntime": false,
+  "npmClient": "yarn",
+  "webDir": "www",
+  "server": {
+    "url": "http://82.130.102.51:8080"
+  }
+}
